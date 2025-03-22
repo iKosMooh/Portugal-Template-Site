@@ -41,7 +41,7 @@
                 <ul class="list-unstyled">
                     <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i>Brasil</li>
                     <li class="mb-2"><i class="fas fa-envelope me-2"></i>caiomagalhaesdesouza@gmail.com</li>
-                    <li><i class="fas fa-phone me-2"></i>+55 (XX) XXXX-XXXX</li>
+                    <li><i class="fas fa-phone me-2"></i>+55 (19) 99312-2734</li>
                 </ul>
             </div>
         </div>

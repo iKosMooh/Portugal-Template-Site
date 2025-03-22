@@ -104,11 +104,25 @@
                 padding-bottom: 15px;
                 margin: 40px 0;
             }
+
+            .hero-discover {
+                height: 60vh;
+                display: flex;
+                align-items: center;
+                color: white;
+                margin-top: 80px;
+            }
     </style>
 </head>
 
 <body>
     <?php include '../header.php'; ?>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
     <div class="hero-discover">
         <div class="container text-center">

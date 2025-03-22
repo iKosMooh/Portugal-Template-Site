@@ -60,6 +60,21 @@
             padding-left: 20px;
             margin: 30px 0;
         }
+
+        .bg-dourado {
+            background-color: var(--dourado);
+        }
+
+        .btn-outline-verde-portugal {
+            border-color: var(--verde-portugal);
+            color: var(--verde-portugal);
+            transition: all 0.3s ease;
+        }
+
+        .btn-outline-verde-portugal:hover {
+            background-color: var(--verde-portugal);
+            color: white;
+        }
     </style>
 </head>
 
@@ -193,6 +208,131 @@
         </div>
     </section>
 
+    <section class="py-5" id="figuras-culturais">
+        <div class="container">
+            <h2 class="section-title text-center">Figuras Culturais</h2>
+            <div class="row g-4">
+                <!-- Figuras Históricas -->
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/amalia.jpg" class="card-img-top" alt="Amália Rodrigues">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Anos
+                                50-90</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Amália Rodrigues</h5>
+                            <p class="text-muted">Rainha do Fado</p>
+                            <ul class="list-unstyled">
+                                <li>🎤 Maior intérprete de fado</li>
+                                <li>🌍 Embaixadora cultural</li>
+                                <li>🏆 Prêmio da UNESCO 1994</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/camoes.jpg" class="card-img-top" alt="Luís de Camões">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Séc. XVI</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Luís de Camões</h5>
+                            <p class="text-muted">Poeta Épico</p>
+                            <ul class="list-unstyled">
+                                <li>📖 Autor de "Os Lusíadas"</li>
+                                <li>🇵🇹 Símbolo nacional</li>
+                                <li>🏛️ Prêmio Camões (em sua homenagem)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Figuras Modernas -->
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/cr7.jpg" class="card-img-top" alt="Cristiano Ronaldo">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Atual</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Cristiano Ronaldo</h5>
+                            <p class="text-muted">Atleta Global</p>
+                            <ul class="list-unstyled">
+                                <li>⚽ Melhor jogador português da história</li>
+                                <li>🌐 Embaixador turístico</li>
+                                <li>💼 Empresário e filantropo</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/joaquim.jpg" class="card-img-top" alt="Joaquim de Almeida">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Anos
+                                80-Atual</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Joaquim de Almeida</h5>
+                            <p class="text-muted">Ator Internacional</p>
+                            <ul class="list-unstyled">
+                                <li>🎬 Estrela de Hollywood</li>
+                                <li>📺 Série "24 Horas"</li>
+                                <li>🎭 Teatro nacional</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/mariza.jpg" class="card-img-top" alt="Mariza">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Atual</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Marisa dos Reis Nunes (Mariza)</h5>
+                            <p class="text-muted">Nova Voz do Fado</p>
+                            <ul class="list-unstyled">
+                                <li>🎶 Modernização do fado</li>
+                                <li>🌍 Tournées internacionais</li>
+                                <li>🏆 4x Prêmio BBC World Music</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="culture-card card h-100">
+                        <div class="position-relative">
+                            <img src="/images/sophia.jpg" class="card-img-top" alt="Sophia de Mello Breyner">
+                            <span class="position-absolute top-0 start-0 bg-dourado text-dark p-2 small">Séc. XX</span>
+                        </div>
+                        <div class="card-body">
+                            <h5>Sophia de Mello Breyner</h5>
+                            <p class="text-muted">Poetisa e Escritora</p>
+                            <ul class="list-unstyled">
+                                <li>📚 Prêmio Camões 1999</li>
+                                <li>✒️ Obra traduzida em 24 idiomas</li>
+                                <li>🎭 Influência na cultura moderna</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-5">
+                <a href="#figuras-culturais" class="btn btn-outline-verde-portugal px-5 py-3">
+                    Ver Mais Figuras
+                </a>
+            </div>
+        </div>
+    </section>
+
     <section class="bg-light py-5">
         <div class="container">
             <h2 class="section-title text-center">Arquitetura</h2>
@@ -230,7 +370,7 @@
         </div>
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

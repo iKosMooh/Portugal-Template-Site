@@ -137,8 +137,8 @@
     <?php include '../header.php'; ?>
     <div class="monarchy-hero text-black">
         <div class="container text-center">
-            <h1 class="display-3 fw-bold mb-4">A República Portuguesa</h1>
-            <p class="lead fs-4">Democracia e Liberdade desde 1974</p>
+            <h1 class="display-3 fw-bold mb-4">Fundação do Reino</h1>
+            <p class="lead fs-4">A monarquia portuguesa teve início em 1143 com o Tratado de Zamora, que reconheceu:</p>
         </div>
     </div>
 

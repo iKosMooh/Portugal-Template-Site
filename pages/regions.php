@@ -58,7 +58,7 @@
     <?php include '../header.php'; ?>
 
     <div class="region-hero">
-        <div class="container text-center">
+        <div class="container text-center text-black">
             <h1 class="display-4 fw-bold">Regiões de Portugal</h1>
             <p class="lead">Descubra a diversidade cultural e paisagística do território português</p>
         </div>
