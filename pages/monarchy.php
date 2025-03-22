@@ -12,6 +12,7 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:wght@400;700&display=swap"
         rel="stylesheet">
+    <link rel="icon" href="/images/icon.png" type="image/png">
 
     <style>
         :root {
@@ -118,9 +119,10 @@
                 right: auto;
             }
         }
+
         .monarchy-hero {
-            background: linear-gradient(rgba(4, 106, 56, 0.9)), 
-                        url('https://images.unsplash.com/photo-1583485088034-697b5bc54ccd') center/cover;
+            background: linear-gradient(rgba(4, 106, 56, 0.9)),
+                url('https://images.unsplash.com/photo-1583485088034-697b5bc54ccd') center/cover;
             height: 70vh;
             display: flex;
             align-items: center;

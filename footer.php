@@ -1,3 +1,4 @@
+<link rel="icon" href="/images/icon.png" type="image/png">
 <footer class="bg-dark text-white pt-5" id="footer">
     <div class="container">
         <div class="row g-4">
@@ -9,13 +10,15 @@
                     <strong class="fs-5" style="color: #046a38;">Caio Magalhães de Souza</strong>
                 </p>
                 <div class="d-flex gap-3">
-                    <a href="https://linkedin.com/in/caio-souza-59b102336/" class="text-white text-decoration-none" target="_blank">
+                    <a href="https://linkedin.com/in/caio-souza-59b102336/" class="text-white text-decoration-none"
+                        target="_blank">
                         <i class="fab fa-linkedin"></i>
                     </a>
                     <a href="https://github.com/iKosMooh" class="text-white text-decoration-none" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="mailto:caiomagalhaesdesouza@gmail.com" class="text-white text-decoration-none" target="_blank">
+                    <a href="mailto:caiomagalhaesdesouza@gmail.com" class="text-white text-decoration-none"
+                        target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
@@ -26,7 +29,8 @@
                 <h5 class="text-uppercase mb-4" style="color: #ffd700;">Legal</h5>
                 <ul class="list-unstyled">
                     <li class="mb-2"><a href="#" class="text-white text-decoration-none">Termos de Uso</a></li>
-                    <li class="mb-2"><a href="#" class="text-white text-decoration-none">Política de Privacidade</a></li>
+                    <li class="mb-2"><a href="#" class="text-white text-decoration-none">Política de Privacidade</a>
+                    </li>
                     <li><a href="#" class="text-white text-decoration-none">Licenças</a></li>
                 </ul>
             </div>
@@ -66,16 +70,18 @@
         color: #c31118 !important;
         transition: color 0.3s ease;
     }
-    
-    .fab, .fas {
+
+    .fab,
+    .fas {
         font-size: 1.5rem;
         transition: transform 0.3s ease;
     }
-    
-    .fab:hover, .fas:hover {
+
+    .fab:hover,
+    .fas:hover {
         transform: translateY(-3px);
     }
-    
+
     .btn-outline-light:hover {
         background: #046a38;
         border-color: #046a38;

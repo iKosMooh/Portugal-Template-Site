@@ -12,6 +12,7 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:wght@400;700&display=swap"
         rel="stylesheet">
+    <link rel="icon" href="/images/icon.png" type="image/png">
 
     <style>
         .card-img-top {
@@ -129,8 +130,7 @@
                     <li class="mb-3">⛪ Missão evangelizadora</li>
                 </ul>
                 <div class="img-hover-zoom mt-4">
-                    <img src="/images/antigo.webp" alt="Mapa antigo"
-                        class="img-fluid rounded">
+                    <img src="/images/antigo.webp" alt="Mapa antigo" class="img-fluid rounded">
                 </div>
             </div>
 
@@ -160,8 +160,7 @@
                         <div class="explorer-card card h-100">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="/images/v2.jpg"
-                                        class="img-fluid rounded-start" alt="Vasco da Gama">
+                                    <img src="/images/v2.jpg" class="img-fluid rounded-start" alt="Vasco da Gama">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
